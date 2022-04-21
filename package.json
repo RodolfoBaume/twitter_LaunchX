@@ -1,0 +1,22 @@
+{
+  "name": "twitter_launchx",
+  "version": "1.0.0",
+  "description": "Sprint 1: Agregar modelos",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodolfoBaume/twitter_LaunchX.git"
+  },
+  "author": "RodolfoBaume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodolfoBaume/twitter_LaunchX/issues"
+  },
+  "homepage": "https://github.com/RodolfoBaume/twitter_LaunchX#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
