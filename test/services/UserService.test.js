@@ -1,4 +1,3 @@
-const User = require('../../app/models/User')
 const UserService = require('./../../app/services/UserService')
 
 describe("Test for UserService",() => {
